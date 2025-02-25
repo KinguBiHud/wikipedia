@@ -1,4 +1,4 @@
-# Bounty Hunter 🏹 TEST
+# Bounty Hunter 🏹 
 <br><br>
 <div class="tip-container">
     <p class="title">Participare</p>
