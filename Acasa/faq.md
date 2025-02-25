@@ -568,3 +568,5 @@ prețul crește la **150 Premium Points pe zi**. Pentru cei care au primit o int
 | pickaxe miner  | 250          |
 | rod ind        | 250          |
 | rod  fish      | 250          |
+
+## test
