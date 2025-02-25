@@ -569,4 +569,3 @@ prețul crește la **150 Premium Points pe zi**. Pentru cei care au primit o int
 | rod ind        | 250          |
 | rod  fish      | 250          |
 
-a
