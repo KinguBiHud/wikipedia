@@ -94,6 +94,8 @@ Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate
   </tr>
   
 </table>
+*Toate aceste tickete pot fi atât comercializate pe Market sau Trade, cât și aruncate pe jos.
+**Informațiile legate de fiecare tichet sunt disponibile și pe server, în momentul în care apeși **Click-Dreapta** pe tichet. În cazul în care tichetul are o descriere mai lungă, va fi necesar să dai **Scroll** în jos pentru a citi toate beneficiile acestuia.
 
 Pe server exista diferite articole vestimentare ce-ti ofera beneficii.
 Articolele disponibile:
@@ -108,3 +110,4 @@ Articolele disponibile:
     <td>5% Job-Boost</td>
     <td><img src="https://i.imgur.com/Gq5OPLL.png" alt="Masca Bunny"></td>
   </tr>
+  
