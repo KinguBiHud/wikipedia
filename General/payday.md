@@ -9,8 +9,12 @@ La fiecare oră fixă, jucătorii activi pe server își vor primi salariul. Ace
   • **Total Earnings** - Suma totală de bani primită la payday-ul respectiv.  
   • **Rent** - Banii plătiți pe chirie.  
   • **Tax** - Taxa percepută pentru business-ul sau casa pe care o deții.  
-  • **Gift Points** - Suma de gift points primită la payday-ul respectiv și totalul acestora.
 
-Suma maximă de bani pe care o poți avea în bancă pentru a primi dobânda maximă este de $25,000,000.
+Suma maximă de bani pe care o poți avea în bancă pentru a primi dobânda maximă este de $500.000.
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Suma pe care o primesti la dobanda este influentata in cea mai mare parte de Nivelul pe care il ai, si de nimic altceva. Dobanda maxima o atingi odata ce ai nivel 100.</p>
+</div>
 
 
