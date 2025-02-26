@@ -24,7 +24,8 @@ Ai nevoie de un aparat de zbor? Poți închiria un aparat de zbor din locația b
     <p><img src="https://i.imgur.com/uFZqOlC.jpeg" alt= "Locatie"></p>
 </details>
 
-
+## Care este cel mai rapid avion pe care îl pot închiria??
+Cel mai rapid avion ce îl poti inchiria este **Buckingham Alpha-Z1**.
 
 ## Rent boat 🚢
 Ai nevoie de un vehicul maritim?  Poți închiria un vehicul maritim din locația businessului **Rent boat**. Folosește comanda `/rentboat` când ești în locatia potrivita.
