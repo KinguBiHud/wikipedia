@@ -13,6 +13,7 @@
   <li><strong>Drop Box:</strong> La un interval de timp pe server se drop-ează o cutie, iar tu și alți jucători o puteți distruge pentru a lua premiile. În funcție de damage-ul dat în DropBox, sunt împărțite premiile, printre care și Respect Points.</li>
   <li><strong>Crates:</strong> Folosind comanda <code>[/crates]</code> poți cumpăra sau deschide cutii, unde poți câștiga Respect Points.</li>
   <li><strong>Questuri:</strong> Tastând comanda <code>[/quests]</code> vei putea vedea questurile zilnice și speciale, iar la completarea unui quest poți primi Respect Points.</li>
+  <li><strong>Realizari:</strong> Tastând comanda <code>[/quests]</code> vei putea vedea questurile zilnice și speciale, iar la completarea unui quest poți primi Respect Points.</li>
 </ul>
 
 <h2>Rob Points</h2>
@@ -57,6 +58,7 @@
   <li><strong>Skill Up:</strong> Câștigă B-Points când avansezi în skill pe joburi.</li>
   <li><strong>Level Up:</strong> Creșterea în nivel îți aduce B-Points.</li>
   <li><strong>Daily Spin:</strong> În fiecare dimineață, roata norocului poate oferi B-Points.</li>
+  <li><strong>Repo Work:</strong> In functie de cate ai completat consecutive la rand in ziua respectiva sau dificultate.</li>
 </ul>
 
 <h2>Premium Points</h2>
@@ -72,4 +74,15 @@
   <li><strong>Skin Tickets:</strong> Unele tickets, cum ar fi Summer și Xmas Ticket, oferă puncte Premium suplimentare.</li>
   <li><strong>Realizări:</strong> Completarea realizărilor aduce puncte Premium.</li>
   <li><strong>Daily Spin:</strong> Roata norocului poate oferi puncte Premium în fiecare dimineață.</li>
+  <li><strong>Stunts:</strong> Dupa ce termini 10 seturi de stunt-uri la rand, primesti 100 PP.</li>
+  <li><strong>Repo Work:</strong> In functie de cate ai consecutive la rand in ziua respectiva sau dificultate.</li>
 </ul>
+
+<h2>Race Points</h2>
+<p>Aceste puncte sunt utile pentru tunarea vehiculelor.</p>
+<ul>
+ <li><strong>Gift Box:</strong> Oferă B-Points, deschizând cutii cu comanda <code>[/getgift]</code>.</li>
+ <li><strong>Crates:</strong> Deschizând cutii cu <code>[/crates]</code>, poți câștiga B-Points.</li>
+ <li><strong>Repo Work:</strong> In functie de cate ai completat consecutive la rand in ziua respectiva sau dificultate.</li>
+ <li><strong>Stunts:</strong> Dupa ce termini intreg setul de Stunt-uri, primesti o suma de puncte.</li>
+ <li><strong>Race Arena:</strong> In functie de lungimea traseului ales, modului de cursa si locul pe care l-ai obtinut..</li>
