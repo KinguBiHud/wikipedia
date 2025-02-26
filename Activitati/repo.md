@@ -20,6 +20,7 @@
 
 Dacă ai jucat minutele necesare în funcție de tipul de cont pe care îl deții, vei primi un mesaj pe telefon de la Simeon.
 Pentru a începe misiunea, mergi la acesta și apasă pe tasta 'E'.
+**Daca ai murit in timpul misiunii**, mai trebuie sa joci 5 minute ca sa primesti mesaj dinnou de la simion sa repeti misiunea.
 
 <details class="details custom-block">
 <summary>Locație</summary>
@@ -82,4 +83,10 @@ Recompense pentru livrări:
 
 <div class ="danger-container">
 <p>Vehiculul primit la Repo Work nu poate fi dat prin trade</p>
+</div>
+
+### Posibile erori
+<div class ="danger-container">
+<p>"Nu poti face acest task acum" - Acest lucru inseamna ca nu ai inca minutele jucate in intervalul specific de timp, sau ai terminat deja Repo Work-ul din intervalul respectiv si nu mai poti face altul</p>
+<p>"Momentan nu am nici o masina de recuperat pentru tine" - Acest lucru inseamna ca toate locatiile de Repo Work sunt deja atripuite, si trebuie sa astepti pana se elibereaza altul</p>
 </div>
