@@ -18,14 +18,14 @@
     <tbody>
         <tr>
             <td>Pistol</td>
-            <td>$750,000</td>
+            <td>$2.250,000</td>
             <td>$50 / glonț</td>
             <td>2,500</td>
             <td>1</td>
         </tr>
         <tr>
             <td>Combat Pistol</td>
-            <td>$1,000,000</td>
+            <td>$3,000,000</td>
             <td>$50 / glonț</td>
             <td>2,500</td>
             <td>1.25</td>
