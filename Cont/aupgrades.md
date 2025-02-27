@@ -11,21 +11,14 @@
 - **12 luni**: 888 premium points
 
 ### Avantaje: 💝
-- dobândă mărită la bancă +0.25%
 - +2 slot-uri de vehicule personale
 - acces la comanda **(/pcolor)**
 - 10% job boost
-- acces la chat-ul premium **(/pc)**
-- acces la comanda **(/dsprice)** pentru a vedea în timp real prețul vehiculelor în **Dealership**.
-- puncte necesare pentru rob scăzute la 8.
-- poți spawna până la 8 vehicule simultan.
-- poți avea până la 20 de skin-uri.
+- acces la chat-ul upgrade **(/gc)**
+- puncte necesare pentru rob Yacht scăzute la 8.
 - Market: -10% din taxe
 - Transferuri: -10% din taxe
 - Withdraw: -10% din taxe
-- Withdraw business-uri: 18% (default 19%)
-- Scoatere bani din casă: 18% (default 19%)
-- Scoatere bani din job: 18% (default 19%)
 - Limita de oferte pe market: 3 (default 2)
 - Bani mai mulți la rob-uri: +5%
 
@@ -40,28 +33,27 @@
 - **12 luni**: 3333 premium points
 
 ### Avantaje: 💝
-- dobândă mărită la bancă
-- număr de telefon format din 3 cifre
-- acces la comanda **(/vr)**
-- acces la comanda **(/flip)**
-- timp de **(/ad)** înjumătățit
+- Număr de telefon format din 3 cifre
+- Acces la comanda **(/vr)** 
+- Acces la comanda **(/flip)** 
+- Timp de **(/ad)** înjumătățit
+- Poți avea până la 20 de slot-uri de vehicule
+- Acces la chat-ul upgrade **(/gc)**
+- Primești backpack de tip **Normal**
+- Acces la comenzile **(/sett)** pentru a-ți seta timpul în joc și **(/setw)** pentru a seta vremea
+- Acces la comanda **(/find)** pentru a căuta un jucător fără a avea jobul de Detective
+- Tag deasupra Capului **VIP**
+- Numărul de vehicule spawnate simultan: 2
 - 15% job boost
-- acces la chat-ul VIP **(/vc)**
-- acces la comenzile **(/sett)** pentru a-ți seta timpul în joc și **(/setw)** pentru a seta vremea
-- acces la comanda **(/find)** pentru a căuta un jucător fără a avea jobul de Detective
-- primești backpack de tip **Normal**
-- poți avea până la 20 de slot-uri de vehicule
-- poți avea până la 30 de skin-uri
 - Market: -15% din taxe
 - Transferuri: -15% din taxe
 - Withdraw: -15% din taxe
-- Withdraw business-uri: 17% (default 19%)
-- Scoatere bani din casă: 17% (default 19%)
-- Scoatere bani din job: 17% (default 19%)
+- Withdraw business-uri: 18% (default 19%)
+- Scoatere bani din casă: 18% (default 19%)
+- Scoatere bani din job: 18% (default 19%)
 - Timp redus la Simeon: 40 minute (default 45)
-- Limita de oferte pe market: 4
+- Limita de oferte pe market: 2
 - Bani mai mulți la rob-uri: +7%
-- Numărul de vehicule spawnate simultan: 2
 
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
@@ -70,7 +62,17 @@
 
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
+    <p class="description">Comanda <b>/vr</b> iți va percepe o taxă de $250.000 pentru fiecare utilizare și are un delay de 20 de minute.</p>
+</div><br>
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
     <p class="description">Comanda <b>/flip</b> are un delay de 20 de minute.</p>
+</div><br>
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Pentru a putea seta numarul de telefon special, trebuie sa cumperi acest Account upgrade din meniul **[/shop]**.</p>
 </div><br>
 
 <hr>
@@ -84,34 +86,29 @@
 - **12 luni**: 5555 premium points
 
 ### Avantaje: 💝
-- dobândă mărită la bancă
 - număr de telefon format din litere
+- poți plasa un anunț de peste tot
+- acces la comanda **(/turn off messages)** pentru a opri mesajele
 - acces la comanda **(/vr)**
 - acces la comanda **(/flip)**
-- poți plasa un anunț de peste tot
-- acces la chat-ul Legend **(/lc)**
-- acces la comanda **(/legendcolor)** pentru a-ți seta o culoare în username pe chat
-- acces la comanda **(/turn off messages)** pentru a opri mesajele
-- primești backpack de tip **Normal**
-- poți spawna până la 8 vehicule simultan
-- poți avea până la 40 de skin-uri
-- canistra de benzină are capacitatea de 40L
-- tag deasupra capului cu Legend
-- bet la casino mai mare
 - 25% job boost
-- Market: -25% din taxe
-- Transferuri: -25% din taxe
-- Withdraw: -25% din taxe
-- Withdraw business-uri: 15% (default 19%)
-- Scoatere bani din casă: 15% (default 19%)
-- Scoatere bani din job: 15% (default 19%)
-- Puncte de rob la payday: 2 (default 1)
-- Timp redus la Simeon: 30 minute (default 45)
-- Limita de oferte pe market: 5
-- Bani mai mulți la rob-uri: +15%
+- bet la casino mai mare
+- acces la comanda **(/legendcolor)** pentru a-ți seta o culoare în username pe chat
+- Acces la chat-ul upgrade **(/gc)**
+- poți plasa un anunț de peste tot
+- acces la comanda **(/turn off messages)** pentru a opri mesajele
+- tag deasupra capului cu Legend
 - Numărul de vehicule spawnate simultan: 3
-- Șansă mărită la droparea itemelor utile la rob: +20% 
-- Tog seatbelt ce-ti pune automat centura la intrarea in vehicul.
+- Poti vedea in (/id) daca un jucator este AFK
+- Taxe mai mici la market cu 25%
+- Taxe mai mici la transfer cu 25%
+- Taxe mai mici la withdraw cu 25%
+- Taxe mai mici la retragerile din propietati cu 15%
+- +1 Rob Point / Payday
+- Timp redus la Simeon cu 30 de minute
+- Limita de oferte pe market: 3
+- Majorarea castigurilor din jafuri : +15%
+- Marita sansa de dropare a itemelor de la job cu 20%
 
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
@@ -121,4 +118,9 @@
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
     <p class="description">Comanda **(/flip)** are un delay de 10 de minute.</p>
+</div><br>
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Pentru a putea seta numarul de telefon special, trebuie sa cumperi acest Account upgrade din meniul **[/shop]**.</p>
 </div><br>
