@@ -47,7 +47,7 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/Kw72ZW5.png" alt="bhupraformvz5"></td>
-        <td><strong>Enus Paragon MVZ5</strong>/td>
+        <td><strong>4MENTOR ZX5</strong>/td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/1TPBpJk.png" alt="Zorrusso"></td>
@@ -59,11 +59,11 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/kzYNsyN.png" alt="bhudirs7rabt"></td>
-        <td><strong>Obey RS Type 7 RABT</strong> - Audi RS7 </td>
+        <td><strong>Obey RS Type 7 RABT</strong></td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/KkwUVLR.png" alt="bhws7lexdrv"></td>
-        <td><strong>Übermacht 7 Type G11 LE - BMW Seria 7LE X-Drive</strong>/td>
+        <td><strong>Übermacht 7 Type G11 LE</strong>/td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/muHF2DF.png" alt="bhenzc63amg"></td>
@@ -104,7 +104,7 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/tWqTmMc.png" alt="bhgustawestaw109vip"></td>
-        <td><strong>bhgustawestaw109vip - Augusta Westland AW109 VIP</strong></td>
+        <td><strong>Augusta Westland AW109 VIP</strong></td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/KaXEMxe.png" alt="bhseratileventemansory"></td>
