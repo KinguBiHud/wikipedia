@@ -57,7 +57,7 @@ Pentru a transforma „Metal Scraps” în materiale, urmează acești pași:
 - După finalizarea procesării, mergi la locația respectivă și apasă din nou tasta **E** pentru a colecta „Mats” (materialele).  
 <br>
 <div class="tip-container">
-1 Metal Scrap poate sa-ti dea intre 110 si 150 materiale.
+1 Metal Scrap poate sa-ti dea intre 110 si 150 materiale si dureaza 1 minut per fiecare Metal Scrap pe care il pui la procesat.
 </div>
 
 
