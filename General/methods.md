@@ -13,7 +13,7 @@
   <li><strong>Drop Box:</strong> La un interval de timp pe server se drop-ează o cutie, iar tu și alți jucători o puteți distruge pentru a lua premiile. În funcție de damage-ul dat în DropBox, sunt împărțite premiile, printre care și Respect Points.</li>
   <li><strong>Crates:</strong> Folosind comanda <code>[/crates]</code> poți cumpăra sau deschide cutii, unde poți câștiga Respect Points.</li>
   <li><strong>Questuri:</strong> Tastând comanda <code>[/quests]</code> vei putea vedea questurile zilnice și speciale, iar la completarea unui quest poți primi Respect Points.</li>
-  <li><strong>Realizari:</strong> Tastând comanda <code>[/quests]</code> vei putea vedea questurile zilnice și speciale, iar la completarea unui quest poți primi Respect Points.</li>
+  <li><strong>Realizari:</strong> Tastând comanda <code>[/realizari]</code> vei putea vedea questurile zilnice și speciale, iar la completarea unui quest poți primi Respect Points.</li>
 </ul>
 
 <h2>Rob Points</h2>
