@@ -27,6 +27,6 @@ Odată ales vehiculul va fi necesar să votezi pentru ruta favorită (la fel dif
 
 ## Câte Race Points primesc în funcție de locul pe care mă clasez?
 
-Numărul de Race Points pe care îl poți câștiga într-o cursă depinde de mai mulți factori: distanța totală parcursă în cursă, tipul de cursă (Off-roaD, Sky Jet, etc.) și poziția pe care o ocupi la finalul cursei (locul 1, 2, 3 etc.).
+Numărul de Race Points pe care îl poți câștiga într-o cursă depinde de mai mulți factori: distanța totală parcursă în cursă, tipul de cursă (Off-road, Skijet, etc.) și poziția pe care o ocupi la finalul cursei (locul 1, 2, 3 etc.).
 Aceste variabile contribuie împreună la calcularea punctajului final primit.
 
