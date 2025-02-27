@@ -140,7 +140,7 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
     </tr>
        <tr>
         <td><img src="https://i.imgur.com/TCBTZIU.png" alt="bhurusperf23"></td>
-        <td><strong>Progen 675LT</strong></td>
+        <td><strong>Pagassi URAX</strong></td>
     </tr>
        <tr>
         <td><img src="https://i.imgur.com/ffrCRZG.png" alt="bhorschetaytrs"></td>
@@ -155,3 +155,12 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
 ## Întrebări frecvente
 ### Care este șansa de reușită la shard-uri?
 Șansa de reușită este de 75%.
+
+### Câte shard-uri primesc înapoi dacă dau fail?
+In functie de masini:
+- La Truffade Vayder, Pagassi Urax, McLaren 765LT, Carrera 911 Convertible primesti **2** sharduri in caz de fail.
+- La oricare alta masina, doar **1** shard inapoi in caz de fail.
+
+### Primesc Premium Points-urile folosite la craft înapoi in caz de fail?
+Nu, acestea se folosesc in momentul in care incerci sa 'Craftezi' vehiculul.
+
