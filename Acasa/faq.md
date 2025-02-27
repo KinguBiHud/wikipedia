@@ -17,6 +17,8 @@ Spre exemplu, un vehicul cu viteza stock de 100km/h, cu stage 1 prinde 110 km/h,
 | Gun              | $5,000,000    |
 | Driving          | $100,000      |
 
+<h2> Care este cea mai rapid masina de clan? </h2> 
+Masinile de clan nu au un topspeed setat, insa cea mai buna masina pe partea de acceleratie este 'Enus Phantom'.
 
 <h2> Cum pot obține Circuit Board? </h2> 
 Circuit Board-ul poate fi obținut practicând job-ul de electrician, având o șansă de 10%.
