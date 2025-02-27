@@ -41,6 +41,7 @@
     <li><code>/givekey</code> - Dai cheia vehiculului altcuiva.</li>
     <li><code>/throwkey</code> - Arunci cheia vehiculului primită.</li>
     <li><code>/lock</code> - Încuie/descuie vehiculul.</li>
+    <li><code>/changelock</code> - Schimbi incuietoarea vehiculului tau. Cheile date anterior devin invalide.</li>
 </ul>
 
 <h2>Trade Hold Vehicule</h2>
@@ -62,6 +63,7 @@
     <li><strong>Spin</strong> - Roata norocului cu șansa de a câștiga un vehicul.</li>
     <li><strong>Crates</strong> - Vehicul garantat prin B-Points sau premium points.</li>
     <li><strong>Activity Shop</strong> - Mașini obținute prin activitatea ta pe server.</li>
+    <li><strong>Crafting</strong> - Mașini obținute prin craftarea lor folosind 4 sharduri de acelasi fel.</li>
 </ul>
 
 <h2>Centura de Siguranță</h2>
