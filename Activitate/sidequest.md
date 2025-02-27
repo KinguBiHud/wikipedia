@@ -47,6 +47,7 @@ La fiecare 25 femei satisfăcute în cadrul unui lobby, timpul necesar pentru ur
 ### Cum funcționează sincronizarea Femeilor?
 Dacă te afli în lobby în momentul satisfacerii unei femei, aceasta va fi vizibilă și pentru tine.
 Dacă te alături unui lobby deja în progres, femeile satisfăcute anterior nu vor fi afișați pentru tine.
+
 ## Premii
 Dacă ai satisfăcut cele 169 de femei, vei primi:
 - 1000 roses
@@ -54,6 +55,15 @@ Dacă ai satisfăcut cele 169 de femei, vei primi:
 - B-Points 5000
 - Cupidon V3 Crate
 - $10,000,000
+- Free spin x1
+- Ciocolata 2h
+
+## Premii pentru a 2a completare in momentul in care este disponibila:
+- 500 roses
+- Premium Points 125 (cash)
+- B-Points 2500
+- Cupidon V3 Crate
+- $5,000,000
 - Free spin x1
 - Ciocolata 2h
 
