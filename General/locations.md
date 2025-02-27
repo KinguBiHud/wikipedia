@@ -48,8 +48,8 @@ Mai jos ve-ți avea o lista cu toate locațiile importante care nu apar pe GPS �
 <details class="details custom-block">
   <summary>Arata</summary>
   <p>Locație</p>
-  <img src="https://i.imgur.com/VlTV0fz.png" alt="Vespucci Beach 1">
-  <img src="https://i.imgur.com/Lsp4pv3.png" alt="Vespucci Beach 2">
+  <img src="https://imgur.com/a/aUl2B7r" alt="Vespucci Beach 1">
+  <img src="https://imgur.com/a/7s4LQfL" alt="Vespucci Beach 2">
 </details>
 
 <h2>Unde se află Vinewood (Sign)?</h2>
