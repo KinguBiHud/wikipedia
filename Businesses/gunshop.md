@@ -16,6 +16,11 @@ Pe server exista business-urile de tip Gun Shop de unde poți achiziționa difer
     <li><strong>Pistol</strong> - $750.000</li>
 </ul>
 
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Aceste arme pot fi folosite numai daca dețineți o **Licenta de arme**.</p>
+</div>
+
 <h4>Muniție:</h4>
 <ul>
     <li><strong>HandGun Ammo</strong> (gloante pentru pistol) - $50 per glonț</li>
