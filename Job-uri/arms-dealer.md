@@ -2,7 +2,7 @@
 # Arms Dealer 🔫
 <BR><BR>
 <div class="tip-container">
-<p>La acest job există o șansa de 13 % de a primi Gun Powder (atat in cadrul “Material Theft” cat si in “Metal Scrap Collector”/ Glass Cutter (in cadrul “Material Theft”)</p>
+<p>La acest job există o șansa de 15 % de a primi Gun Powder (atat in cadrul “Material Theft” cat si in “Metal Scrap Collector”/ Glass Cutter (in cadrul “Material Theft”)</p>
 </div><br>
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
