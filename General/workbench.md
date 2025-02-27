@@ -88,6 +88,7 @@ Vei avea nevoie de 1 Blueprints (pot fi obtinute la Arms Dealer), o suma de bani
 | Heavy Pistol     | 25,000 Materiale, $1.125.000     | 2.5 dmg/glonț  | 2,500        |
 | Appistol         | 30,000 Materiale, $1.250.000     | 1.25 dmg/glonț | 2,500        |
 | Pistol .50       | 30,000 Materiale, $1.500.000     | 1.25 dmg/glonț | 2,500        |
+| Machine Pistol   | Battle Pass Reward               | 4.5 dmg/glonț  | 2,500        |
 
 ### <strong>SMG</strong>
 
@@ -110,6 +111,7 @@ Vei avea nevoie de 1 Blueprints (pot fi obtinute la Arms Dealer), o suma de bani
 | Military Rifle     | Daily activity shop                  | 6.25 dmg/glonț| 7,500        |
 | Musket             | Daily activity shop                  | 25 dmg/glonț  | 7,500        |
 | Gusenberg          | Daily activity shop                  | 5.5 dmg/glonț | 7,500        |
+| Advanced Rifle     | Battle Pass Reward                   | 3.5 dmg/glonț | 7,500        |
 
 
 ### <strong>Shotgun</strong>
