@@ -53,4 +53,23 @@
 <p><strong>Horns</strong> - Alege-ți un claxon personalizat din 52 de modele disponibile. Acestea pot fi cumpărate cu <span class="highlight">Bani</span> sau <span class="highlight">Puncte Premium</span>.</p>
 
 <p><strong>Rainbow Sistem [R]</strong> - Schimbă constant culorile vehiculului cu sistemul Rainbow. <span class="important">Preț: Puncte Premium</span> sau <span class="highlight">Rainbow Ticket</span>.</p>
+
+<p><strong>Premium Fuel</strong> - Acesta iti creste capacitatea rezervolui de la vehicul de la 100 la 150 de litri
+
+<p><strong>VIP</strong> - Sistemul de VIP poate fii cumparat si echipat din meniul **[/V]** in momentul in care selectezi masina dorita si apesi pe butonul de **Upgrade To VIP**. Acesta costa **500 Premium points**. Mai poti obtine acest sistem prin folosirea unui **VIP Car Ticket** in momentul in care te aflii in masina, deschizi inventarul si apesi pe butonul **USE** pe item.
+
+## Acest sistem iti ofera:
+- 100% Vehicle Armour (mai rezistenta la lovituri si la gloante).
+- Posibilitatea de a pune roti VIP.
+- Posibilitatea de a adauga neon lights.
+- Posibilitatea de a inchide/deschide vehiculul de la distanta.
+- Pretul asigurarii cu 25% micsorat.
+- Consumul vehiculului cu 25% microsat.
+
+<p><strong>VIP+</strong> - Sistemul de VIP+ poate fii cumparat si echipat din meniul **[/V]** in momentul in care selectezi masina dorita si apesi pe butonul de **Upgrade To VIP+**, doar daca masin are deja echipat sistemul **VIP**. Acesta costa **250 Premium points**. Mai poti obtine acest sistem prin folosirea unui **VIP Plus Car Ticket** in momentul in care te aflii in masina, deschizi inventarul si apesi pe butonul **USE** pe item.
+
+## Acest sistem iti ofera:
+- Optiunea de a teleporta vehiculul la tine.
+- Acces la comanda [/clean] ce iti va curate vehiculul. 
+
 </div>
