@@ -111,4 +111,13 @@
     </td>
     <td><img src="https://i.imgur.com/7aEcDwW.png" alt="Trucker" style="width:100%;max-width:300px;"></td>
   </tr>
+  <tr>
+    <td><p style="font-size: 22px; font-weight: bold; color: #ffffff"> Mesaje 📃</p><p>              </p>
+      <ul style="color: #c5c6c7;">
+        <li></li>
+        <li></li>
+      </ul>
+    </td>
+    <td><img src="https://i.imgur.com/RzNddzj.png" alt="Mesaje" style="width:100%;max-width:300px;"></td>
+  </tr>
 </table>
