@@ -45,7 +45,7 @@ Acceptă misiunea lui Armando și bucură-te de Valentine’s Day! ❤️✨
 
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
-    <p class="description">Daca acest Quest Special, este completat mai multe zile la rand, premiile pe care le primesti vor creste pana la un maxim de x2.5 care o sa fie atins in ziua 11. Mai jos aveti tabel exact cu zilele si multiplicatorii care o sa se aplice in functie de cate zile la rand ati ocmpletat questul special.</p>
+    <p class="description">Daca acest Quest Special este completat mai multe zile la rand, premiile pe care le primesti vor creste pana la un maxim de x2.5 care o sa fie atins in ziua 11. Mai jos aveti tabel exact cu zilele si multiplicatorii care o sa se aplice in functie de cate zile la rand ati completat questul special.</p>
 </div>
 
 
