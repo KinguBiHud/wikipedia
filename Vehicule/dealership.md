@@ -148,7 +148,7 @@
                 <tr><td>118</td><td>Emperor LX570</td><td>8.000.000 $</td></tr>
                 <tr><td>119</td><td>Vapid Dominator GT</td><td>8.000.000 $</td></tr>
                 <tr><td>120</td><td>BF 4Menter ZX5</td><td>8.500.000 $</td></tr>
-                <tr><td>121</td><td>Übermacht 3 Type 46</td><td>8.500.000 $</td></tr>
+                <tr><td>121</td><td>Übermacht 3 Type 46</td><td>22.000.000 $</td></tr>
                 <tr><td>122</td><td>Classique Broadway</td><td>9.000.000 $</td></tr>
                 <tr><td>123</td><td>Annis 300R</td><td>9.000.000 $</td></tr>
                 <tr><td>124</td><td>Lampadati Komoda</td><td>9.300.000 $</td></tr>
@@ -159,7 +159,6 @@
                 <tr><td>129</td><td>Annis Drift ZR-350</td><td>10.000.000 $</td></tr>
                 <tr><td>130</td><td>Declasse Drift Yosemite</td><td>10.000.000 $</td></tr>
                 <tr><td>131</td><td>Överflöd Entity XF</td><td>10.000.000 $</td></tr>
-                <tr><td>132</td><td>Übermacht 5 Type F10</td><td>10.000.000 $</td></tr>
                 <tr><td>133</td><td>Ocelot Virtue</td><td>10.000.000 $</td></tr>
                 <tr><td>134</td><td>Benefactor CLA Type 45</td><td>10.000.000 $</td></tr>
                 <tr><td>135</td><td>Dinka S2K</td><td>10.000.000 $</td></tr>
@@ -169,7 +168,7 @@
                 <tr><td>139</td><td>Vapid Uranus LozSpeed</td><td>10.300.000 $</td></tr>
                 <tr><td>140</td><td>Pfister Comet Retro Custom</td><td>10.300.000 $</td></tr>
                 <tr><td>141</td><td>Annis Drift Remus</td><td>10.500.000 $</td></tr>
-                <tr><td>142</td><td>Obey RS Type 5</td><td>10.500.000 $</td></tr>
+                <tr><td>142</td><td>Obey RS Type 5</td><td>25.000.000 $</td></tr>
                 <tr><td>143</td><td>Annis Drift Euros</td><td>10.500.000 $</td></tr>
                 <tr><td>144</td><td>Pegassi Infernus Classic</td><td>10.600.000 $</td></tr>
                 <tr><td>145</td><td>Grotti Turismo Omaggio</td><td>11.000.000 $</td></tr>
@@ -182,7 +181,6 @@
                 <tr><td>152</td><td>Progen Itali GTB Custom</td><td>12.000.000 $</td></tr>
                 <tr><td>153</td><td>Vulcar 60S</td><td>12.000.000 $</td></tr>
                 <tr><td>154</td><td>Dinka Drift Jester RR</td><td>12.000.000 $</td></tr>
-                <tr><td>155</td><td>Obey Q Type 8</td><td>12.000.000 $</td></tr>
                 <tr><td>156</td><td>Dinka Civique Spec R</td><td>12.500.000 $</td></tr>
                 <tr><td>157</td><td>Maibatsu Evo Type IX</td><td>12.500.000 $</td></tr>
                 <tr><td>158</td><td>Maibatsu Evo Type X</td><td>12.500.000 $</td></tr>
@@ -199,7 +197,6 @@
                 <tr><td>169</td><td>Obey 10F</td><td>15.000.000 $</td></tr>
                 <tr><td>170</td><td>Invetero Coquette D10</td><td>15.000.000 $</td></tr>
                 <tr><td>171</td><td>Grotti Itali RSX</td><td>16.200.000 $</td></tr>
-                <tr><td>172</td><td>Übermacht 2M Type G87</td><td>16.500.000 $</td></tr>
                 <tr><td>173</td><td>Albany CT4 Darkfeather</td><td>17.000.000 $</td></tr>
                 <tr><td>174</td><td>Överflöd Entity MT</td><td>17.000.000 $</td></tr>
                 <tr><td>175</td><td>Übermacht RR Type 1000</td><td>18.000.000 $</td></tr>
@@ -211,7 +208,6 @@
                 <tr><td>181</td><td>Nagasaki ZX10R</td><td>20.000.000 $</td></tr>
                 <tr><td>182</td><td>Karin Tacoma 2024</td><td>22.000.000 $</td></tr>
                 <tr><td>183</td><td>Coil Spec S</td><td>22.500.000 $</td></tr>
-                <tr><td>184</td><td>Benefactor G Type 63</td><td>23.000.000 $</td></tr>
                 <tr><td>185</td><td>Maibatsu YZF R1</td><td>23.000.000 $</td></tr>
                 <tr><td>186</td><td>Nagasaki Assassin H2R</td><td>25.000.000 $</td></tr>
                 <tr><td>187</td><td>Übermacht M Type 4 Cabrio</td><td>26.500.000 $</td></tr>
@@ -226,45 +222,48 @@
                 <tr><td>196</td><td>Ocelot Type F Spec R</td><td>30.000.000 $</td></tr>
                 <tr><td>197</td><td>Nagasaki RZR</td><td>32.000.000 $</td></tr>
                 <tr><td>198</td><td>Gallivanter Rover SVR</td><td>32.500.000 $</td></tr>
-                <tr><td>199</td><td>Übermacht 7X Type G07</td><td>35.000.000 $</td></tr>
+                <tr><td>199</td><td>Obey Q Type 8</td><td>35.000.000 $</td></tr>
                 <tr><td>200</td><td>Obey RS Type 3 Sportback</td><td>35.000.000 $</td></tr>
                 <tr><td>201</td><td>Vapid Armasar GT</td><td>35.000.000 $</td></tr>
                 <tr><td>202</td><td>Übermacht M5 Type E60</td><td>40.000.000 $</td></tr>
                 <tr><td>203</td><td>Dinka NSX Spec S</td><td>40.000.000 $</td></tr>
                 <tr><td>204</td><td>Pfister Cayenne GT</td><td>45.000.000 $</td></tr>
                 <tr><td>205</td><td>Benefactor GLE Type 53c</td><td>50.000.000 $</td></tr>
-                <tr><td>206</td><td>Übermacht i Type 8</td><td>50.000.000 $</td></tr>
-                <tr><td>207</td><td>Lampadati Levente Mansory</td><td>50.000.000 $</td></tr>
-                <tr><td>208</td><td>Schyster Spear AMX</td><td>50.000.000 $</td></tr>
-                <tr><td>209</td><td>Coil Speedster</td><td>60.000.000 $</td></tr>
-                <tr><td>210</td><td>Obey RS Type 6</td><td>70.000.000 $</td></tr>
-                <tr><td>211</td><td>Western Big Boy</td><td>75.000.000 $</td></tr>
-                <tr><td>212</td><td>Benefactor C Type 63</td><td>75.000.000 $</td></tr>
-                <tr><td>213</td><td>Benefactor S Type 63</td><td>80.000.000 $</td></tr>
-                <tr><td>214</td><td>Übermacht 7 Type G11 LE</td><td>100.000.000 $</td></tr>
-                <tr><td>215</td><td>Coil Wind Sapphire</td><td>100.000.000 $</td></tr>
-                <tr><td>216</td><td>Enus Batur</td><td>100.000.000 $</td></tr>
-                <tr><td>217</td><td>Enus Bentayga ST</td><td>110.000.000 $</td></tr>
-                <tr><td>218</td><td>Invetero Coquette C7</td><td>120.000.000 $</td></tr>
-                <tr><td>219</td><td>Enus Global</td><td>120.000.000 $</td></tr>
-                <tr><td>220</td><td>Dinka NSX-R 1991</td><td>150.000.000 $</td></tr>
-                <tr><td>221</td><td>Annis Silvia 14</td><td>150.000.000 $</td></tr>
-                <tr><td>222</td><td>Übermacht M Type 8</td><td>150.000.000 $</td></tr>
-                <tr><td>223</td><td>Bravado Chase</td><td>150.000.000 $</td></tr>
-                <tr><td>224</td><td>Obey RS Type 7 RABT</td><td>150.000.000 $</td></tr>
-                <tr><td>225</td><td>Benefactor S Type 500</td><td>175.000.000 $</td></tr>
-                <tr><td>226</td><td>Benefactor GT Type 63s</td><td>200.000.000 $</td></tr>
-                <tr><td>227</td><td>Bravado Devil</td><td>200.000.000 $</td></tr>
-                <tr><td>228</td><td>Benefactor GT Type Race</td><td>250.000.000 $</td></tr>
-                <tr><td>229</td><td>Benefactor E Type 63B</td><td>250.000.000 $</td></tr>
-                <tr><td>230</td><td>Obey R Type 8</td><td>350.000.000 $</td></tr>
-                <tr><td>231</td><td>Grotti 488 GTB</td><td>400.000.000 $</td></tr>
-                <tr><td>232</td><td>Enus Daybreak</td><td>400.000.000 $</td></tr>
-                <tr><td>233</td><td>Progen 675LT Convertible</td><td>425.000.000 $</td></tr>
-                <tr><td>234</td><td>Grotti 812 SF</td><td>455.000.000 $</td></tr>
-                <tr><td>235</td><td>Pfister 918 Spyder</td><td>625.000.000 $</td></tr>
-                <tr><td>236</td><td>Progen P1</td><td>660.000.000 $</td></tr>
-                <tr><td>237</td><td>Överflöd Agera RS</td><td>710.000.000 $</td></tr>
-                <tr><td>238</td><td>Truffade Chyron Msry</td><td>800.000.000 $</td></tr>
-            </tbody>
-        </table>
+                <tr><td>206</td><td>Benefactor G Type 63</td><td>50.000.000 $</td></tr>
+                <tr><td>207</td><td>Übermacht i Type 8</td><td>50.000.000 $</td></tr>
+                <tr><td>208</td><td>Lampadati Levente Mansory</td><td>50.000.000 $</td></tr>
+                <tr><td>209</td><td>Schyster Spear AMX</td><td>50.000.000 $</td></tr>
+                <tr><td>210</td><td>Übermacht 7X Type G07</td><td>55.000.000 $</td></tr>
+                <tr><td>211</td><td>Coil Speedster</td><td>60.000.000 $</td></tr>
+                <tr><td>212</td><td>Western Big Boy</td><td>75.000.000 $</td></tr>
+                <tr><td>213</td><td>Benefactor C Type 63</td><td>75.000.000 $</td></tr>
+                <tr><td>214</td><td>Benefactor S Type 63</td><td>80.000.000 $</td></tr>
+                <tr><td>215</td><td>Übermacht 7 Type G11 LE</td><td>100.000.000 $</td></tr>
+                <tr><td>216</td><td>Coil Wind Sapphire</td><td>100.000.000 $</td></tr>
+                <tr><td>217</td><td>Enus Batur</td><td>100.000.000 $</td></tr>
+                <tr><td>218</td><td>Enus Bentayga ST</td><td>110.000.000 $</td></tr>
+                <tr><td>219</td><td>Invetero Coquette C7</td><td>120.000.000 $</td></tr>
+                <tr><td>220</td><td>Enus Global</td><td>120.000.000 $</td></tr>
+                <tr><td>221</td><td>Bravado RAM 1500 </td><td>125.000.000 $</td></tr>
+                <tr><td>222</td><td>Obey TT </td><td>125.000.000 $</td></tr>
+                <tr><td>223</td><td>Obey RS Type 6</td><td>140.000.000 $</td></tr>
+                <tr><td>224</td><td>Dinka NSX-R 1991</td><td>150.000.000 $</td></tr>
+                <tr><td>225</td><td>Annis Silvia 14</td><td>150.000.000 $</td></tr>
+                <tr><td>226</td><td>Übermacht M Type 8</td><td>150.000.000 $</td></tr>
+                <tr><td>227</td><td>Bravado Chase</td><td>150.000.000 $</td></tr>
+                <tr><td>228</td><td>Obey RS Type 7 RABT</td><td>150.000.000 $</td></tr>
+                <tr><td>229</td><td>Benefactor S Type 500</td><td>175.000.000 $</td></tr>
+                <tr><td>230</td><td>Benefactor GT Type 63s</td><td>200.000.000 $</td></tr>
+                <tr><td>231</td><td>Bravado Devil</td><td>200.000.000 $</td></tr>
+                <tr><td>232</td><td>Benefactor GT Type Race</td><td>250.000.000 $</td></tr>
+                <tr><td>233</td><td>Benefactor E Type 63B</td><td>250.000.000 $</td></tr>
+                <tr><td>234</td><td>Obey R Type 8</td><td>350.000.000 $</td></tr>
+                <tr><td>235</td><td>Grotti 488 GTB</td><td>400.000.000 $</td></tr>
+                <tr><td>236</td><td>Enus Daybreak</td><td>400.000.000 $</td></tr>
+                <tr><td>237</td><td>Progen 675LT Convertible</td><td>425.000.000 $</td></tr>
+                <tr><td>238</td><td>Grotti 812 SF</td><td>455.000.000 $</td></tr>
+                <tr><td>239</td><td>Pfister 918 Spyder</td><td>625.000.000 $</td></tr>
+                <tr><td>240</td><td>Progen P1</td><td>660.000.000 $</td></tr>
+                <tr><td>241</td><td>Överflöd Agera RS</td><td>710.000.000 $</td></tr>
+                <tr><td>242</td><td>Truffade Chyron Msry</td><td>800.000.000 $</td></tr>
+                <tr><td>243</td><td>Benefactor AMG1</td><td>1.000.000.000 $</td></tr>
