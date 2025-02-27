@@ -125,3 +125,26 @@ Poti obtine materiale, bani si puncte premium ce vor intra in seiful clanului.
 
 ### Cum colectez clan drop-ul?
 Pentru a face asta, apasa pe tasta 'E'.
+
+## Top Speed Masini clan:
+- Overflod Tyrant - aproximativ 203Km/h
+- Enus Paragon R (Armored) - aproximativ 180Km/h
+- Karin Dilettante - aproximativ 143Km/h
+- Progen GP1 - aproximativ 220Km/h
+- Albany Stretch - aproximativ 155Km/h
+- Galivanter Rover - aproximativ 207Km/h
+- Pfister Cayenne TS - aproximativ 195Km/h
+- TerraCruiser J200 - aproximativ 203Km/h
+- Bati 801 - Aproximativ 185KM/h
+- Benefactor Type S - Aproximativ 215Km/h
+- Enus Phantom - Aproximativ 211Km/h
+- Obey A Type 8L - Aproximativ 184Km/h
+- Ubermacht 5 Type E60 - Aproximativ 176Km/h
+- Benefactor CLS Type 63 - Aproximativ 220Km/h
+- Benbefactor G Type 199 - Aproximativ 183Km/h
+
+<div class="danger-container">
+    <p class="title">De retinut</p>
+    <p class="description">Masinile acestea NU au un topspeed setat. Acesta este unul informativ si poate varia in functie de mai multi factori.</p>
+</div>
+
