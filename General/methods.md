@@ -75,7 +75,7 @@
   <li><strong>Realizări:</strong> Completarea realizărilor aduce puncte Premium.</li>
   <li><strong>Daily Spin:</strong> Roata norocului poate oferi puncte Premium în fiecare dimineață.</li>
   <li><strong>Stunts:</strong> Dupa ce termini 10 seturi de stunt-uri la rand, primesti 100 PP.</li>
-  <li><strong>Repo Work:</strong> In functie de cate ai consecutive la rand in ziua respectiva sau dificultate.</li>
+  <li><strong>Repo Work:</strong> În funcție de câte ai consecutive la rând în ziua respectivă sau dificultate.</li>
 </ul>
 
 <h2>Race Points</h2>
@@ -83,6 +83,12 @@
 <ul>
  <li><strong>Gift Box:</strong> Oferă B-Points, deschizând cutii cu comanda <code>[/getgift]</code>.</li>
  <li><strong>Crates:</strong> Deschizând cutii cu <code>[/crates]</code>, poți câștiga B-Points.</li>
- <li><strong>Repo Work:</strong> In functie de cate ai completat consecutive la rand in ziua respectiva sau dificultate.</li>
- <li><strong>Stunts:</strong> Dupa ce termini intreg setul de Stunt-uri, primesti o suma de puncte.</li>
- <li><strong>Race Arena:</strong> In functie de lungimea traseului ales, modului de cursa si locul pe care l-ai obtinut..</li>
+ <li><strong>Repo Work:</strong> În funcție de câte ai completat consecutive la rând în ziua respectivă sau dificultate.</li>
+ <li><strong>Stunts:</strong> După ce termini întreg setul de Stunt-uri, primești o sumă de puncte.</li>
+ <li><strong>Race Arena:</strong> În funcție de lungimea traseului ales, modul de cursă și locul pe care l-ai obținut.</li>
+
+<h2>Activity Points</h2>
+<p>Aceste puncte sunt utile pentru a cumpara diverse obiecte din Activity Shop.</p>
+  <li><strong>Sarcini zilnice</strong> Tastand comanda [/quest] o sa ti se deschida o interfata cu toate sarcinile zilnice pe care le ai</li>
+  <li><strong>Sarcini speciale</strong> Tastand comanda [/quest] si apoi navigand in tab-ul 'Special' aici o sa gasesti sarcini mai grele cu o durata de 30 de zile dar si mai bine platitea  .</li>
+<ul>
