@@ -127,6 +127,13 @@
             <td>1.25</td>
             <td>2,500</td>
         </tr>
+        <tr>
+            <td>Machine Pistol</td>
+            <td>BattlePass Reward</td>
+            <td>0</td>
+            <td>4.5</td>
+            <td>2,500</td>
+        </tr>
     </tbody>
 </table>
 
@@ -225,20 +232,30 @@
         <tr>
             <td>Military Rifle</td>
             <td>Daily activity shop</td>
+            <td>0</td>
             <td>6.25</td>
-            <td>7,500</td><td>7,500</td>
+            <td>7,500</td>
         </tr>
         <tr>
             <td>Musket</td>
-            <td>Daily activity shop</td>
+            <td>Crates</td>
+            <td>0</td>
             <td>25</td>
-            <td>7,500</td><td>7,500</td>
+            <td>7,500</td>
         </tr>
         <tr>
             <td>Gusenberg</td>
             <td>Daily activity shop</td>
+            <td>0</td>
             <td>5.5</td>
-            <td>7,500</td><td>7,500</td>
+            <td>7,500</td>
+        </tr>
+        <tr>
+            <td>Advanced Rifle</td>
+            <td>Battle Pass Reward</td>
+            <td>0</td>
+            <td>4.5</td>
+            <td>7,500</td>
         </tr>
     </tbody>
 </table>
