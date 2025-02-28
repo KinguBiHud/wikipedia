@@ -114,8 +114,8 @@
   <tr>
     <td><p style="font-size: 22px; font-weight: bold; color: #ffffff"> Mesaje 📃</p><p>In această aplicație o sa primesti toate mesajele tale pe care le primesti.</p>
       <ul style="color: #c5c6c7;">
-        <li></li>Simion o sa fie mereu primul in mesagerie, indiferent cine it scrie.
-        <li></li>Oricine iți scrie. Mesajul cat si contactul acestuia o să se ducă sub ultima persoana care ți-a scris.
+        <li>Simion o sa fie mereu primul in mesagerie, indiferent cine it scrie.</li>
+        <li>Oricine iți scrie. Mesajul cat si contactul acestuia o să se ducă sub ultima persoana care ți-a scris.</li>
       </ul>
     </td>
     <td><img src="https://i.imgur.com/RzNddzj.png" alt="Mesaje" style="width:100%;max-width:300px;"></td>
