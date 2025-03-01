@@ -89,19 +89,11 @@ Acesta se vinde automat atunci când intri în săgeata de lângă casa de marca
 ## Cum poți face ca un jucător să nu mai aibă cheia de la mașină?
 Pentru a-ți schimba încuietoarea vehiculului, folosește `/changelock`.
 
-## Cât poți transfera prin [/pay] în funcție de contul pe care îl ai:
+## Cât poți transfera prin [/pay] :
 
-Jucătorii ce dețin cont **VIP** sau **Legend** pot transfera o sumă maximă de 1.500.000$. Cei ce au un cont **Premium** pot transfera maxim 750.000$, iar cei ce nu au un **Account Upgrade** pot transfera maxim 250.000$ prin intermediul comenzii `/pay`.
+Jucătorii pot transfera maximul sumei de $1.000.000 prin intermediul comenzii `/pay`.
 
-## Câte GiftPoints primesc la PayDay?
-
-| Interval de Secunde  | GiftPoints Primite   |
-|-----------------------|----------------------|
-| 0-600                 | 20                   |
-| 601-1800              | 70                   |
-| 1801-3600             | 120                  |
-
-## Care este comisionul de la ATM?
+## Care este comisionul de la ATM? 
 **3%** pentru ATM-urile normale, iar **5%** la ATM-ul din **Casino**
 
 ## Ce primesc dacă avansez în skill?
@@ -122,6 +114,7 @@ Veți plăti 500$ înmulțit cu numărul de caractere folosite în anunț.
 
 ## Cât este delay-ul la /ad? 
 Puteți plasa un anunț o dată la 10 minute.
+
 ## Cum găsesc un garaj? 
 Poți face acest lucru folosindu-te de comanda `/findgarage`. 
 
@@ -155,23 +148,17 @@ Vehiculul de la job va fi despawnat după 5 minute de nefolosință, vei fi noti
 ## Care este cea mai ieftină mașină din Dealership?
 Asbo - 46.000$
 
-## Cum îmi pot crește dobânda?
-Dobânda primite variază în funcție de secundele jucate, **Account Upgrade** și de suma avută în contul bancar.
-
 ## Unde este vehiculul închiriat?
 `/findrentcar` îți va pune un checkpoint cu locația acestuia.
 
 ## Care este cel mai rapid vehicul de la Rent Car?
-Vehiculul de tip **Futo** este cel mai rapid de la **Rent Car**.
+Vehiculul de tip **Ocelot Lynx** este cel mai rapid de la **Rent Car**.
 
 ## Cum îmi schimb tasta de pe care pot deschide telefonul?
 Apasa pe 'O', mergi la **Hotkeys** si seteaza-ti tasta dorita.
 
 ## Cum pot ajunge la casa unde locuiesc sau am chirie?
 Te vei putea folosi de comanda `/home`, aceasta îți va pune un checkpoint cu locația unde ai chirie/casă.
-
-## Mă ajută level la dobândă?
-Nu, acesta îți va oferi doar un **Paycheck** mai mare ce este calculat după formula: 250$ înmulțit cu nivelul tău.
 
 ## Pot cumpăra asigurare cu wanted?
 Nu.
@@ -190,9 +177,6 @@ Membrii factiunii **Los Santos Police Departament** au dreptul de a-ți acorda *
 ## Ce este Premium Fuel Ticket și ce oferă?
 Acesta este un ticket ce putea fi obținut prin diferite metode precum: achiziționarea lui de la jucători și **Battlepass**.
 Oferă +50L capacitate vehicul de combustibil.
-
-## Cum pot ascunde kill list?
-Apasă pe `F9` pentru a-l ascunde.
 
 ## Cum pot sa-mi resetez caracterul?
 Poti face acest lucru daca ai achiziționat optiunea 'Reset Character' din /shop -> Normal folosind comanda /resetchar.
@@ -227,10 +211,7 @@ Doar deținătorul frecvenței are dreptul să dea kick jucătorilor din ea.
 ## Dacă ies de pe frecvență fiind proprietarul acesteia, îmi voi pierde accesul de a scoate jucătorii de pe aceasta?
 Chiar dacă ești deținător și ieși de pe frecvență, poți reveni introducând parola. Fiind deținător, nu îți vei pierde accesul de a scoate jucători chiar dacă ieși și intri din nou.
 
-## Ce este litera C din dreptul combustibilului?
-Litera 'C' din dreapta categoriei 'FUEL' reprezintă consumul de combustibil al vehiculului în timp real.
-
-## Cum vad cate persoane sunt online dintr-o factiune sau On-Duty sau fara sa fie la datorie?
+## Cum vad cati politistie sunt online dintr-o factiune sau On-Duty sau fara sa fie la datorie?
 Poți vedea acest lucru folosind comanda `/pdon` pentru membrii factiunilor **Los Santos Police Departement** și **SWAT**.
 
 ## Cum pot vedea testeri online?
@@ -396,17 +377,23 @@ Atunci când mănânci **hotdog**, **burger**, **fries** sau **pizza**, ai șans
 
 ## De ce îmi scade viața? 
 Viața ta scade deoarece serverul simulează viața reală, unde este esențial să consumi alimente pentru a supraviețui.
+
 ## Care este suma maximă la Job Goal?
 Suma de bani necesară pentru a completa **Job Goal** este de `500.000.000`.
+
 ## Câte B-Points primesc la Job Goal?
 Pentru fiecare `2.500$` munciți, vei primi 1 **B-Point**.
+
 ## Câte puncte premium primesc dacă muncesc cel mai mult la Job Goal?
 Vei primi 250 de **Premium Points**.
+
 ## Care este maximul de B-Points pe care îl pot obține din Job Goal?
 Poți obține maxim **2500** de B-Points.
+
 ## La ce oră cade Clan Drop?
 "Clan Drop" apare zilnic la 17:30, 18:30, 19:30, 20:30 și 23:30. 
 In zilele de Marti si Joi, Clan Drop-ul nu va aparea datorita programului de war.
+
 ## La ce oră sunt Clan Wars?
 War-urile dintre clanuri sunt programate să aibă loc în fiecare zi de marți și joi, între orele 20:00 și 22:00.
 
