@@ -314,7 +314,7 @@ Pentru fiecare nivel de **Wanted**, vei petrece 5 minute în închisoare. Spre e
 Aceasta se va mări cu **2 minute** de fiecare dată când un polițist te sancționează pentru comportamentul din interiorul închisorii.
 
 ## Câți bani plătesc la arestarea/predarea mea?
-Vei plăti 50$ pentru fiecare nivel de **Wanted** deținut. Spre exemplu: Dacă ai **Wanted 2**, vei plăti 100$
+Vei plăti 50.000$ pentru fiecare nivel de **Wanted** deținut. Spre exemplu: Dacă ai **Wanted 2**, vei plăti 100$
 
 ## Când expiră numerele de la VIP și Legend? De ce nu mai am numărul de la VIP / Legend?
 Numerele VIP & Legend vor expira după **7 zile** din momentul în care ai rămas fără grad.
@@ -387,31 +387,33 @@ Dacă este vorba de un tip diferit de mâncare, o poți mânca imediat, însă d
 | Burger          | 10 min| 35   |
 | Fries           | 10 min| 10   |
 | Pizza           | 10 min| 40   |
-| Meat            | 7 min | 1 la 2 secunde   |
-| Salad           | 3 min | 1 la 4 secunde   |
+| Meat            | 10 min | 50  |
+| Salad           | 10 min | 35  |
 
-## Am mâncat și îmi scade viața brusc, de ce?
-
-Atunci când mănânci **hotdog**, **burger**, **fries** sau **pizza**, ai șansa de 3% să-ți scadă 1 **HP** pe secundă datorită mâncării stricate.
 
 ## De ce îmi scade viața? 
 Viața ta scade deoarece serverul simulează viața reală, unde este esențial să consumi alimente pentru a supraviețui.
+
 ## Care este suma maximă la Job Goal?
 Suma de bani necesară pentru a completa **Job Goal** este de `500.000.000`.
+
 ## Câte B-Points primesc la Job Goal?
 Pentru fiecare `2.500$` munciți, vei primi 1 **B-Point**.
+
 ## Câte puncte premium primesc dacă muncesc cel mai mult la Job Goal?
 Vei primi 250 de **Premium Points**.
+
 ## Care este maximul de B-Points pe care îl pot obține din Job Goal?
 Poți obține maxim **2500** de B-Points.
+
 ## La ce oră cade Clan Drop?
 "Clan Drop" apare zilnic la 17:30, 18:30, 19:30, 20:30 și 23:30. 
 In zilele de Marti si Joi, Clan Drop-ul nu va aparea datorita programului de war.
+
 ## La ce oră sunt Clan Wars?
 War-urile dintre clanuri sunt programate să aibă loc în fiecare zi de marți și joi, între orele 20:00 și 22:00.
 
 ## Cate puncte premium consta unban?
-
 Dacă ești banat pentru <span style="color:red">7 zile</span>, tariful este de **100 Premium Points pe zi**. Dar dacă suspendarea ta se întinde pe <span style="color:red">15 zile</span>,
 prețul crește la **150 Premium Points pe zi**. Pentru cei care au primit o interdicție pentru <span style="color:red">30 de zile</span>, costul rămâne la **150 de Premium Points pe zi**. 
 Însă, pentru cei cu suspendări mai lungi pe mai mult sau <span style="color:red">60 zile</span>, prețul crește la **200 de Premium Points pe zi**.
@@ -568,6 +570,6 @@ prețul crește la **150 Premium Points pe zi**. Pentru cei care au primit o int
 | hatchet        | 25           |
 | shovel         | 25           |
 | pickaxe miner  | 250          |
-| rod ind        | 250          |
-| rod  fish      | 250          |
+| rod ind fish   | 250          |
+| rod fish       | 250          |
 
