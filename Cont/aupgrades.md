@@ -7,7 +7,7 @@
 ### Preț: 💵
 - **o lună**: 100 premium points
 - **3 luni**: 275 premium points
-- **6 luni**: 300 premium points
+- **6 luni**: 500 premium points
 - **12 luni**: 888 premium points
 
 ### Avantaje: 💝
@@ -29,7 +29,7 @@
 ### Preț: 💵
 - **o lună**: 425 premium points
 - **3 luni**: 1150 premium points
-- **6 luni**: 1275 premium points
+- **6 luni**: 2000 premium points
 - **12 luni**: 3333 premium points
 
 ### Avantaje: 💝
@@ -82,7 +82,7 @@
 ### Preț: 💵
 - **o lună**: 750 premium points
 - **3 luni**: 2000 premium points
-- **6 luni**: 2250 premium points
+- **6 luni**: 3500 premium points
 - **12 luni**: 5555 premium points
 
 ### Avantaje: 💝
