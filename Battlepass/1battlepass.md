@@ -11,7 +11,7 @@
 <h2>Mod de desfasurare</h2>
 <p>Noul sezon se va desfășura pe o perioadă de <strong>8 săptămâni</strong>.
 <p>Acest sezon va avea un total de <strong>50 nivele</strong>, fiecare cu premii speciale pe măsură activităților cerute în misiuni si a activitatilor extra.</p>
-<p>În fiecare zi de <strong>Luni</strong> a fiecărei săptămâni, un nou “Week” va fi lansat cu noi provocări pentru a avansa în nivel.</p>
+<p>În fiecare zi de <strong>Duminica</strong> a fiecărei săptămâni la ora 17:05, un nou “Week” va fi lansat cu noi provocări pentru a avansa în nivel.</p>
 <p><strong>Fiecare săptămână</strong> va avea un total de 8 misiuni care trebuie completate pentru a obține experiență necesară pentru a avansa în nivel.</p>
 <p><strong>Misiunile săptămânale</strong> pot fi făcute și în mod retroactiv, de exemplu: Tocmai a fost lansat “Week 7”, tu vei putea face liniștit misiunile din “Week-urile” anterioare.</p>
 
