@@ -3,7 +3,7 @@ Vei avea nevoie de minim level 3 și o licență de zbor activă pentru a putea 
 Rent AirPlane reprezintă biz-ul de unde poți închiria o aeronavă, în cazul în care nu deții una.<br>
 Pentru a ajunge la acest business folosește comanda <strong>[/gps] - Business - Rent AirCraft</strong> și urmează checkpointul apărut pe hartă.<br>
 Odată ajuns la locația respectivă, apasă pe tasta <strong>"E"</strong> și alege o aeronavă pe placul tău.<br>
-Ține minte că vei plăti 1000$ pentru fiecare 20 de secunde petrecute cu aeronavă.<br>
+Ține minte că vei plăti 5000$ pentru fiecare 20 de secunde petrecute cu aeronavă.<br>
 Pentru a renunța la vehicul, folosește comanda <strong>[/unrentcar]</strong>, pentru că dacă nu vei renunța la acesta, banii vor continua să-ți fie luați din cont.<br>
 
 <h3>Numele vehiculului și viteza vehiculului:</h3>
