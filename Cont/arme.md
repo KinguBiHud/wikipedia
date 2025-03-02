@@ -296,6 +296,27 @@
     </tbody>
 </table>
 
+<strong>Alte arme melee</strong><br>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Armă</th>
+            <th>Materiale Necesare</th>
+            <th>Preț</th>
+            <th>Damage</th>
+            <th>Durabilitate</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Knuckle</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>66</td>
+            <td>0</td>
+        </tr>
+
+
 <h3>Durabilitatea Armelor</h3>
 
 <p>Armele nu pot fi pierdute, dar au un sistem de durabilitate. Când durabilitatea scade, ele pot fi reparate contra unei sume de bani. In cazul in care arma ajunge la durabilitate 1, aceasta nu o sa mai poata fi folosita pana nu este reparata la Workbench.</p>
