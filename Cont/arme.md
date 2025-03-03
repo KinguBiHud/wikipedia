@@ -315,6 +315,8 @@
             <td>66</td>
             <td>0</td>
         </tr>
+    </tbody>
+</table>
 
 
 <h3>Durabilitatea Armelor</h3>
