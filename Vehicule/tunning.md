@@ -74,6 +74,8 @@
 
 ## Pe ce masini poti echipa Livery-urile dropate din crate-uri?
 Livery-urile dropate din crateuri care ofera acest premiu, pot fi echipate pe masinile dropate din crateul respectiv:
-**Iced Livery** din craete-ul **Winter V2** poate fi echipat **DOAR** pe **Galivanter Rover SVR**
-**Cupidon Livery** din crate-ul **Cupidon v2** poate fi echipat **DOAR** pe **Karin RAVE4 XSE**
+
+*Iced Livery* din craete-ul **Winter V2** poate fi echipat **DOAR** pe **Galivanter Rover SVR**
+*Cupidon Livery* din crate-ul **Cupidon v2** poate fi echipat **DOAR** pe **Karin RAVE4 XSE**
+
 </div>
