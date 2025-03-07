@@ -49,7 +49,7 @@ Pentru a începe să ”Material Theft”, urmează acești pași:
 
 <div class="danger-container">
     <p class="title">Info!</p>
-    <p class="description">Acest acesta are un cooldown de 120 de minute. Aceste minute se contorizeaza si daca nu sunteti conectati pe server.</p>
+    <p class="description">Acesta are un cooldown de 120 de minute. Aceste minute se contorizeaza si daca nu sunteti conectati pe server.</p>
 </div>
 
 ## Transformare „Metal Scraps” în materiale
