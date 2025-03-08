@@ -56,6 +56,8 @@
 
 <p><strong>Premium Fuel</strong> - Acesta iti creste capacitatea rezervolui de la vehicul de la 100 la 150 de litri
 
+<p><strong>Engine Sounds</strong> - Cu ajutorul acestui upgrade, poti sa iti pui alt sunet pe masina folosind <span class="important">Race Points</span> sau <span class="highlight">Bani</span>.</p>
+
 <p><strong>VIP</strong> - Sistemul de VIP poate fii cumparat si echipat din meniul **[/V]** in momentul in care selectezi masina dorita si apesi pe butonul de **Upgrade To VIP**. Acesta costa **500 Premium points**. Mai poti obtine acest sistem prin folosirea unui **VIP Car Ticket** in momentul in care te aflii in masina, deschizi inventarul si apesi pe butonul **USE** pe item.
 
 ## Acest sistem iti ofera:
