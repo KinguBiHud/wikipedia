@@ -47,7 +47,7 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/Kw72ZW5.png" alt="bhupraformvz5"></td>
-        <td><strong>Enus Paragon MVZ5</strong>/td>
+        <td><strong>4MENTOR ZX5</strong>/td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/1TPBpJk.png" alt="Zorrusso"></td>
@@ -59,11 +59,11 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/kzYNsyN.png" alt="bhudirs7rabt"></td>
-        <td><strong>Obey RS Type 7 RABT</strong> - Audi RS7 </td>
+        <td><strong>Obey RS Type 7 RABT</strong></td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/KkwUVLR.png" alt="bhws7lexdrv"></td>
-        <td><strong>Übermacht 7 Type G11 LE - BMW Seria 7LE X-Drive</strong>/td>
+        <td><strong>Übermacht 7 Type G11 LE</strong>/td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/muHF2DF.png" alt="bhenzc63amg"></td>
@@ -104,7 +104,7 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/tWqTmMc.png" alt="bhgustawestaw109vip"></td>
-        <td><strong>bhgustawestaw109vip - Augusta Westland AW109 VIP</strong></td>
+        <td><strong>Augusta Westland AW109 VIP</strong></td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/KaXEMxe.png" alt="bhseratileventemansory"></td>
@@ -140,7 +140,7 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
     </tr>
        <tr>
         <td><img src="https://i.imgur.com/TCBTZIU.png" alt="bhurusperf23"></td>
-        <td><strong>Progen 675LT</strong></td>
+        <td><strong>Pagassi URAX</strong></td>
     </tr>
        <tr>
         <td><img src="https://i.imgur.com/ffrCRZG.png" alt="bhorschetaytrs"></td>
@@ -155,3 +155,12 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
 ## Întrebări frecvente
 ### Care este șansa de reușită la shard-uri?
 Șansa de reușită este de 75%.
+
+### Câte shard-uri primesc înapoi dacă dau fail?
+In functie de masini:
+- La Truffade Vayder, Pagassi Urax, McLaren 765LT, Carrera 911 Convertible primesti **2** sharduri in caz de fail.
+- La oricare alta masina, doar **1** shard inapoi in caz de fail.
+
+### Primesc Premium Points-urile folosite la craft înapoi in caz de fail?
+Nu, acestea se folosesc in momentul in care incerci sa 'Craftezi' vehiculul.
+

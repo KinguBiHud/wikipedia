@@ -31,3 +31,10 @@ Ai grija, daca vei lua fail la minigame, vei primi wanted 3 (Rob ATM)
 ## Recompensă după completarea jafului
 
 După finalizarea cu succes a jafului, vei primi drept răsplată suma de **$3.000.000**. 💰🎉
+
+## Pot primii punctele si itemele inapoi daca iau crash?
+
+DA, ucatorii vor primi refund pentru jaf daca esueaza sau se deconecteaza, cu conditia sa **nu aiba wanted in niciunul dintre cazuri**.
+Se va primi refund pentru rob points si pentru iteme (exceptie: glass cutter).
+
+**Daca** iti iei crash si ai wanted, acestea se solutioneaza pe Panel.

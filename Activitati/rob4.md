@@ -69,3 +69,10 @@ Dacă ai atât <b>Laptop Frame</b>, cât și <b>Circuit Board</b>, poți:
 ## Recompensă după completarea jafului
 
 După finalizarea cu succes a jafului, vei primi drept răsplată suma de **$7.000.000**. 💰🎉
+
+
+## Pot primii punctele si itemele inapoi daca iau crash?
+
+DA, ucatorii vor primi refund pentru jaf daca esueaza sau se deconecteaza, cu conditia sa **nu aiba wanted in niciunul dintre cazuri**.
+
+**Daca** iti iei crash si ai wanted, acestea se solutioneaza pe Panel.

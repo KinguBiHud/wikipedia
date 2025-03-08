@@ -13,7 +13,7 @@ Zilnic, poți să-ți încerci norocul gratuit la așa zisa **Roata norocului**.
 ## **Premii posibile pentru fiecare nivel**
 
 ### Nivel 1
-- **Vehicul**: *Übermacht 3M Type E36* 
+- **Vehicul**: *bhodgechallengerrth97* 
 - **Bani**: între $200,000 și $350,000 
 - **Premium Points**: între 10 și 15 
 - **Premium Account**: 6 zile 
@@ -28,7 +28,7 @@ Zilnic, poți să-ți încerci norocul gratuit la așa zisa **Roata norocului**.
 
 
 ### Nivel 2
-- **Vehicul**: *Ocelot XE-SV P8* 
+- **Vehicul**: *bhodgechallengerrth97* 
 - **Bani**: între $350,000 și $500,000 
 - **Voucher**: 50 PP 
 - **Premium Account**: 12 zile 
@@ -43,7 +43,7 @@ Zilnic, poți să-ți încerci norocul gratuit la așa zisa **Roata norocului**.
 
 
 ### Nivel 3
-- **Voucher reducere 100.000.000$ pentru vehicul**: *Truffade Chyron Msry* (Poti cumpara acest vehicul chiar daca nu este in stock cu acest voucher)
+- **Ticket reducere $75,000,000**: *Übermacht M5CS Type 30* (Poti cumpara acest vehicul chiar daca nu este in stock cu acest voucher)
 - **Bani**: între $500,000 - $750,000 
 - **Voucher**: 100 PP 
 - **VIP Account**: 12 zile 
@@ -58,7 +58,7 @@ Zilnic, poți să-ți încerci norocul gratuit la așa zisa **Roata norocului**.
 
 
 ### Nivel 4
-- **Voucher reducere 250.000.000$  pentru vehicul**: *Truffade Chyron Msry* (Poti cumpara acest vehicul chiar daca nu este in stock cu acest voucher)
+- **Ticket reducere $150,000,000**: *Pfister 911 TBS* (Poti cumpara acest vehicul chiar daca nu este in stock cu acest voucher)
 - **Bani**: între $750,000 și $1,000,000 
 - **Voucher**: 250 PP 
 - **VIP Account**: 24 zile 
@@ -71,3 +71,13 @@ Zilnic, poți să-ți încerci norocul gratuit la așa zisa **Roata norocului**.
 - **B-Points**: între 750 și 1000 
 - **Rob Points**: între 4 și 5 
 
+### Cum pot obține Free Spins? 
+Acestea le poti obtine din:
+
+- <strong>Crates:</strong> Poti primii un spin din urmatoarele cutii: Spring V2, xMas Crate, Winter v2 si Moonlight.
+- <strong>Evenimente:</strong> In timul anumitor evenimente, poti primii un Free Spin ca si premium.
+- <strong>Skin Ticket</strong> Daca ai Skin Ticket-ul 'Autumn' echipat si ai peste 1800 de secunde jucate la PayDay, o sa primesti un spin Gratuit pe zi.
+- <strong>Battle Pass</strong> Daca finalizezi misiunile care deblocheaza acest premiu, o sa il poti folosii imediat.
+
+<h2> Am de unde să cumpăr alte Spin-uri? </h2>
+Acestea le mai poti cumpara in momentul in care intrii in interfata din [/Spin]. Acesta se scumpeste cu 50 Premium Points, de fiecare data cand le cumperi, la un maximum de 3 pe zi.

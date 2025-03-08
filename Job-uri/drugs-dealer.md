@@ -61,6 +61,7 @@ Acțiunea job-ului Drugs Dealer se împarte în două activități aproape ident
 <br>
 <div class="danger-container">
 <p> Timpul de creștere scade doar dacă sunteți online. </p>
+<p> Poți folosi comanda **[/checkdrugs]** pentru a vedea statusul plantației tale. </p>
 </div>
 
 ## Preturi seminte

@@ -12,9 +12,14 @@ Pe server exista business-urile de tip Gun Shop de unde poți achiziționa difer
 
 <h4>HandGun Weapons:</h4>
 <ul>
-    <li><strong>Combat Pistol</strong> - $1.000.000</li>
-    <li><strong>Pistol</strong> - $750.000</li>
+    <li><strong>Combat Pistol</strong> - $3.000.000</li>
+    <li><strong>Pistol</strong> - $2.250.000</li>
 </ul>
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Aceste arme pot fi folosite numai daca dețineți o **Licenta de arme**.</p>
+</div>
 
 <h4>Muniție:</h4>
 <ul>

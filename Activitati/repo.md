@@ -20,6 +20,7 @@
 
 Dacă ai jucat minutele necesare în funcție de tipul de cont pe care îl deții, vei primi un mesaj pe telefon de la Simeon.
 Pentru a începe misiunea, mergi la acesta și apasă pe tasta 'E'.
+**Daca ai murit in timpul misiunii**, mai trebuie sa joci 5 minute ca sa primesti mesaj dinnou de la simion sa repeti misiunea.
 
 <details class="details custom-block">
 <summary>Locație</summary>
@@ -78,8 +79,23 @@ Recompense pentru livrări:
 ### Bonusuri Speciale
 
 - Recuperarea a **100 vehicule** vă oferă un vehicul personal **Annis Z (bhssanznismo24)**.
+Pentru a face acest lucru, este nevoie dupa ce faceti misiunea 100, sa va duceti unde se afla Simion, si sa vorbiti cu acesta.
+
 - La livrarea a **150-200-250-300 vehicule**, vehiculul obținut la Bonus #1 va fi upgradat cu **Stage 1-2-3-4**, upgrade-uri care nu pot fi accesate din Tuning.
+## Locatia unde trebuie sa te duci pentru a putea pune stage pe vehiculul de la Repo
+
+<details class="details custom-block">
+    <summary>Locație</summary>
+    <p><img src="https://i.imgur.com/A7pfHaf.png"></p>
+    <p><img src="https://i.imgur.com/ODBwmdb.png"></p>
+</details>
 
 <div class ="danger-container">
 <p>Vehiculul primit la Repo Work nu poate fi dat prin trade</p>
+</div>
+
+### Posibile erori
+<div class ="danger-container">
+<p>"Nu poti face acest task acum" - Acest lucru inseamna ca nu ai inca minutele jucate in intervalul specific de timp, sau ai terminat deja Repo Work-ul din intervalul respectiv si nu mai poti face altul</p>
+<p>"Momentan nu am nici o masina de recuperat pentru tine" - Acest lucru inseamna ca toate locatiile de Repo Work sunt deja atripuite, si trebuie sa astepti pana se elibereaza altul</p>
 </div>

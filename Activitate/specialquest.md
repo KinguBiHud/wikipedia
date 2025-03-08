@@ -42,3 +42,25 @@ Odata ajuns la locatie vei petrece impreuna cu ei!
 - ❤️Șansă Crate Cupidon V3 10%
 
 Acceptă misiunea lui Armando și bucură-te de Valentine’s Day! ❤️✨
+
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Daca acest Quest Special este completat mai multe zile la rand, premiile pe care le primesti vor creste pana la un maxim de x2.5 care o sa fie atins in ziua 11. Mai jos aveti tabel exact cu zilele si multiplicatorii care o sa se aplice in functie de cate zile la rand ati completat questul special.</p>
+</div>
+
+
+### <strong>Streak Bonus</strong>
+
+|Ziua | Multiplicator |
+|-----|---------------|
+| 1   |       1       | 
+| 2   |      1.2      | 
+| 3   |      1.4      | 
+| 4   |      1.6      | 
+| 5   |      1.8      | 
+| 6   |      2.0      | 
+| 7   |      2.1      | 
+| 8   |      2.2      | 
+| 9   |      2.3      | 
+| 10  |      2.4      | 
+| 11  |      2.5      |

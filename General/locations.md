@@ -4,6 +4,14 @@
 Doar că uneori te vei lovi și de câteva locații care nu apar pe GPS. De exemplu cele din questurile speciale. 
 Mai jos ve-ți avea o lista cu toate locațiile importante care nu apar pe GPS și locația acestora.</p>
 
+<h2>Unde se află Masion-ul de pe Cayo?</h2>
+<details class="details custom-block">
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/SyUhIlx.png" alt="Mansion 1">
+  <img src="https://i.imgur.com/FGdv7PN.png" alt="Mansion 2">
+</details>
+
 <h2>Unde se află Aeroport LS?</h2>
 <details class="details custom-block">
   <summary>Arata</summary>
@@ -48,8 +56,8 @@ Mai jos ve-ți avea o lista cu toate locațiile importante care nu apar pe GPS �
 <details class="details custom-block">
   <summary>Arata</summary>
   <p>Locație</p>
-  <img src="https://i.imgur.com/VlTV0fz.png" alt="Vespucci Beach 1">
-  <img src="https://i.imgur.com/Lsp4pv3.png" alt="Vespucci Beach 2">
+  <img src="https://i.imgur.com/vIUqsAf.png" alt="Vespucci Beach 1">
+  <img src="https://i.imgur.com/OAhqoAT.png" alt="Vespucci Beach 2">
 </details>
 
 <h2>Unde se află Vinewood (Sign)?</h2>
