@@ -39,3 +39,8 @@ Pentru a-ți vedea statisticile, folosește `/paintstats`.
 ## Cum pot ascunde kill list?
 Apasă pe `F9` pentru a-l ascunde.
 
+## Cum imi fac lobby privat la Paintball?
+
+Jucătorii ce vor sa isi faca un lobby privat, pot face acest lucru in momentul in care ajung la locatia 'Paintball' si deschid interfata acestuia. In momentul in care o deschid, o sa fie o optiune prin care iti poti creea un lobby privat. Acesta costa 200k, si dureaza 10 minute. 
+
+Jucatorii pot parasi arena prin (/paintleave).
