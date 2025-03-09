@@ -4,9 +4,9 @@ Zilnic, poți să-ți încerci norocul gratuit la așa zisa **Roata norocului**.
 
 ## **Cum funcționează nivelele de Spin?**
 
-- **Nivel 1**: La fiecare **7 spin-uri**, primești automat o cheie.
-- **Nivel 2**: La fiecare **8 spin-uri**, primești automat o cheie.
-- **Nivel 3**: La fiecare **10 spin-uri**, primești automat o cheie.
+- **Nivel 1**: La fiecare **11 spin-uri**, primești automat o cheie.
+- **Nivel 2**: La fiecare **12 spin-uri**, primești automat o cheie.
+- **Nivel 3**: La fiecare **14 spin-uri**, primești automat o cheie.
 - **Nivel 4**: Cea mai avansată roată, cu cele mai valoroase premii.
 
 
